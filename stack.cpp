@@ -113,10 +113,10 @@ int main(){
   //obj.pop();
  int i= obj.pk();
  cout<<i<<endl;
-
+ 
   obj.display();
   
-  
+
  
   
 }
