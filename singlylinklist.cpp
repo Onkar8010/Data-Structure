@@ -107,7 +107,6 @@ void display(){
 };
 int main(){
     linklist obj;
-
     obj.insert_at_start(10);
     obj.insert_at_end(20);
     obj.insert_at_end(30);
